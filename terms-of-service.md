@@ -15,4 +15,4 @@ By adding or using the Bot in your server, you agree to the following:
 - Features may change or be discontinued at any time.
 
 ## Contact
-For support or questions, contact **regoplayz** on Discord.
+For support or questions, contact **woooobanana** on Discord.
