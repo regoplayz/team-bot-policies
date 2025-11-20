@@ -24,4 +24,4 @@ If the Bot is removed from a server, all related configuration data becomes inac
 If you need manual data deletion, contact the bot owner.
 
 ## Contact
-For any questions, contact: **regoplayz on Discord**.
+For any questions, contact: **woooobanana on Discord**.
